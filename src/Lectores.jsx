@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from 'react';
 
 function Lectores() {
@@ -88,5 +87,4 @@ function Lectores() {
     </section>
   );
 }
-
 export default Lectores;
